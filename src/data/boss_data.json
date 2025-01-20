@@ -1,0 +1,899 @@
+[
+    {
+        "name": "Broodmother",
+        "image": "/Dossier_Broodmother",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "wisdom_artifact",
+                        "name": "Artéfact de la Sagesse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "hunters_artifact",
+                        "name": "Artéfact du Chasseur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "colossus_artifact",
+                        "name": "Artéfact du Colosse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "argentivis_greenhouse",
+                        "name": "Serre d'Argentavis",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "sarcosuchus_skin",
+                        "name": "Peau de Sarcosuchus",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "sauropod_vertebra",
+                        "name": "Vertèbre de Sauropode",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "wisdom_artifact",
+                        "name": "Artéfact de la Sagesse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "hunters_artifact",
+                        "name": "Artéfact du Chasseur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "colossus_artifact",
+                        "name": "Artéfact du Colosse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "argentivis_greenhouse",
+                        "name": "Serre d'Argentavis",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "sarcosuchus_skin",
+                        "name": "Peau de Sarcosuchus",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "sauropod_vertebra",
+                        "name": "Vertèbre de Sauropode",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "wisdom_artifact",
+                        "name": "Artéfact de la Sagesse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "hunters_artifact",
+                        "name": "Artéfact du Chasseur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "colossus_artifact",
+                        "name": "Artéfact du Colosse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "argentivis_greenhouse",
+                        "name": "Serre d'Argentavis",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "sarcosuchus_skin",
+                        "name": "Peau de Sarcosuchus",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "sauropod_vertebra",
+                        "name": "Vertèbre de Sauropode",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mégapithécus",
+        "image": "/Dossier_Megapithecus",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "beast_artifact",
+                        "name": "Artéfact de la Bête",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "devourer_artifact",
+                        "name": "Artéfact du Dévoreur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "pack_artifact",
+                        "name": "Artéfact de la Meute",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "megalania_toxin",
+                        "name": "Toxine de Mégalania",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "megalodon_tooth",
+                        "name": "Dent de Mégalodon",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "therizino_claws",
+                        "name": "Griffes de Thérizinosaurus",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "thylacoleo_claw",
+                        "name": "Griffe de Thylacoleo",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "beast_artifact",
+                        "name": "Artéfact de la Bête",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "devourer_artifact",
+                        "name": "Artéfact du Dévoreur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "pack_artifact",
+                        "name": "Artéfact de la Meute",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "megalania_toxin",
+                        "name": "Toxine de Mégalania",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "megalodon_tooth",
+                        "name": "Dent de Mégalodon",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "therizino_claws",
+                        "name": "Griffes de Thérizinosaurus",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "thylacoleo_claw",
+                        "name": "Griffe de Thylacoleo",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "beast_artifact",
+                        "name": "Artéfact de la Bête",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "devourer_artifact",
+                        "name": "Artéfact du Dévoreur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "pack_artifact",
+                        "name": "Artéfact de la Meute",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "megalania_toxin",
+                        "name": "Toxine de Mégalania",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "megalodon_tooth",
+                        "name": "Dent de Mégalodon",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "therizino_claws",
+                        "name": "Griffes de Thérizinosaurus",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "thylacoleo_claw",
+                        "name": "Griffe de Thylacoleo",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dragon",
+        "image": "/Dossier_Dragon",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "cunning_artifact",
+                        "name": "Artéfact de la Ruse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "immune_artifact",
+                        "name": "Artéfact de l'Immunisé",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "sky_lord_artifact",
+                        "name": "Artéfact du Seigneur du Ciel",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "strong_artifact",
+                        "name": "Artéfact de Puissance",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "allosaurus_brain",
+                        "name": "Cerveau d'Allosaure",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "basilosaurus_blubber",
+                        "name": "Graisse de Basilosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "tusoteuthis_tentacle",
+                        "name": "Tentacule de Tusoteuthis",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "tyrannosaurus_arm",
+                        "name": "Bras de Tyrannosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "yutyrannus_lung",
+                        "name": "Poumons de Yutyrannus",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "cunning_artifact",
+                        "name": "Artéfact de la Ruse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "immune_artifact",
+                        "name": "Artéfact de l'Immunisé",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "sky_lord_artifact",
+                        "name": "Artéfact du Seigneur du Ciel",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "strong_artifact",
+                        "name": "Artéfact de Puissance",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "allosaurus_brain",
+                        "name": "Cerveau d'Allosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "basilosaurus_blubber",
+                        "name": "Graisse de Basilosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "tusoteuthis_tentacle",
+                        "name": "Tentacule de Tusoteuthis",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "tyrannosaurus_arm",
+                        "name": "Bras de Tyrannosaure",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "yutyrannus_lung",
+                        "name": "Poumons de Yutyrannus",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "cunning_artifact",
+                        "name": "Artéfact de la Ruse",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "immune_artifact",
+                        "name": "Artéfact de l'Immunisé",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "sky_lord_artifact",
+                        "name": "Artéfact du Seigneur du Ciel",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "strong_artifact",
+                        "name": "Artéfact de Puissance",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "allosaurus_brain",
+                        "name": "Cerveau d'Allosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "basilosaurus_blubber",
+                        "name": "Graisse de Basilosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "tusoteuthis_tentacle",
+                        "name": "Tentacule de Tusoteuthis",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "tyrannosaurus_arm",
+                        "name": "Bras de Tyrannosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "yutyrannus_lung",
+                        "name": "Poumons de Yutyrannus",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Manticore",
+        "image": "/Dossier_Manticore",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "fire_talon",
+                        "name": "Griffe de Feu",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "lightning_talon",
+                        "name": "Griffe de Foudre",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "poison_talon",
+                        "name": "Griffe de Poison",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "gatekeeper_artifact",
+                        "name": "Artéfact du Gardien",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "crag_artifact",
+                        "name": "Artéfact du Rocher",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "destroyer_artifact",
+                        "name": "Artéfact du Destructeur",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "fire_talon",
+                        "name": "Griffe de Feu",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "lightning_talon",
+                        "name": "Griffe de Foudre",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "poison_talon",
+                        "name": "Griffe de Poison",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "gatekeeper_artifact",
+                        "name": "Artéfact du Gardien",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "crag_artifact",
+                        "name": "Artéfact du Rocher",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "destroyer_artifact",
+                        "name": "Artéfact du Destructeur",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "fire_talon",
+                        "name": "Griffe de Feu",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "lightning_talon",
+                        "name": "Griffe de Foudre",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "poison_talon",
+                        "name": "Griffe de Poison",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "gatekeeper_artifact",
+                        "name": "Artéfact du Gardien",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "crag_artifact",
+                        "name": "Artéfact du Rocher",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "destroyer_artifact",
+                        "name": "Artéfact du Destructeur",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rockwell",
+        "image": "/Dossier_Rockwell",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "depths_artifact",
+                        "name": "Artéfact des Profondeurs",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "shadows_artifact",
+                        "name": "Artéfact des Ténèbres",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "stalker_artifact",
+                        "name": "Artéfact du Rôdeur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "basilisk_scale",
+                        "name": "Écailles de Basilic",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "nameless_venom",
+                        "name": "Venin de Nameless",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "reaper_pheromone_gland",
+                        "name": "Glande de phéromone de Faucheur",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "rock_drake_feather",
+                        "name": "Plume de Dragon Rocheux",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "alpha_basilisk_fang",
+                        "name": "Croc de Basilic (Alpha)",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "alpha_karkinos_claw",
+                        "name": "Pince de Karkinos (Alpha)",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "reaper_king_bone",
+                        "name": "Os de Roi Faucheur",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "depths_artifact",
+                        "name": "Artéfact des Profondeurs",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "shadows_artifact",
+                        "name": "Artéfact des Ténèbres",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "stalker_artifact",
+                        "name": "Artéfact du Rôdeur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "basilisk_scale",
+                        "name": "Écailles de Basilic",
+                        "quantity": 4
+                    },
+                    {
+                        "id": "nameless_venom",
+                        "name": "Venin de Nameless",
+                        "quantity": 12
+                    },
+                    {
+                        "id": "reaper_pheromone_gland",
+                        "name": "Glande de phéromone de Faucheur",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "rock_drake_feather",
+                        "name": "Plume de Dragon Rocheux",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "alpha_basilisk_fang",
+                        "name": "Croc de Basilic (Alpha)",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "alpha_karkinos_claw",
+                        "name": "Pince de Karkinos (Alpha)",
+                        "quantity": 2
+                    },
+                    {
+                        "id": "reaper_king_bone",
+                        "name": "Os de Roi Faucheur",
+                        "quantity": 1
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "depths_artifact",
+                        "name": "Artéfact des Profondeurs",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "shadows_artifact",
+                        "name": "Artéfact des Ténèbres",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "stalker_artifact",
+                        "name": "Artéfact du Rôdeur",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "basilisk_scale",
+                        "name": "Écailles de Basilic",
+                        "quantity": 6
+                    },
+                    {
+                        "id": "nameless_venom",
+                        "name": "Venin de Nameless",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "reaper_pheromone_gland",
+                        "name": "Glande de phéromone de Faucheur",
+                        "quantity": 7
+                    },
+                    {
+                        "id": "rock_drake_feather",
+                        "name": "Plume de Dragon Rocheux",
+                        "quantity": 7
+                    },
+                    {
+                        "id": "alpha_basilisk_fang",
+                        "name": "Croc de Basilic (Alpha)",
+                        "quantity": 7
+                    },
+                    {
+                        "id": "alpha_karkinos_claw",
+                        "name": "Pince de Karkinos (Alpha)",
+                        "quantity": 7
+                    },
+                    {
+                        "id": "reaper_king_bone",
+                        "name": "Os de Roi Faucheur",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "King Titan",
+        "image": "/Dossier_KingTitan",
+        "difficulty": ["Gamma", "Beta", "Alpha"],
+        "request": [
+            {
+                "difficulty": "Gamma",
+                "items": [
+                    {
+                        "id": "alpha_tyrannosaurus_tooth",
+                        "name": "Dent de Tyrannosaure (Alpha)",
+                        "quantity": 5
+                    },
+                    {
+                        "id": "corrupted_heart",
+                        "name": "Cœur Corrompu",
+                        "quantity": 150
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "desert_titan_trophy",
+                        "name": "Trophée du Titan du Désert",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "forest_titan_trophy",
+                        "name": "Trophée du Titan des Forêts",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "ice_titan_trophy",
+                        "name": "Trophée du Titan de Glace",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "gamma_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Gamma)",
+                        "quantity": 0
+                    },
+                    {
+                        "id": "beta_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Beta)",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Beta",
+                "items": [
+                    {
+                        "id": "alpha_tyrannosaurus_tooth",
+                        "name": "Dent de Tyrannosaure (Alpha)",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "corrupted_heart",
+                        "name": "Cœur Corrompu",
+                        "quantity": 300
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "desert_titan_trophy",
+                        "name": "Trophée du Titan du Désert",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "forest_titan_trophy",
+                        "name": "Trophée du Titan des Forêts",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "ice_titan_trophy",
+                        "name": "Trophée du Titan de Glace",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "gamma_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Gamma)",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "beta_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Beta)",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "difficulty": "Alpha",
+                "items": [
+                    {
+                        "id": "alpha_tyrannosaurus_tooth",
+                        "name": "Dent de Tyrannosaure (Alpha)",
+                        "quantity": 10
+                    },
+                    {
+                        "id": "corrupted_heart",
+                        "name": "Cœur Corrompu",
+                        "quantity": 300
+                    },
+                    {
+                        "id": "giganotosaurus_heart",
+                        "name": "Cœur de Giganotosaure",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "spinosaurus_crest",
+                        "name": "Crête de Spinosaure",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "titanoboa_venom",
+                        "name": "Venin de Titanoboa",
+                        "quantity": 20
+                    },
+                    {
+                        "id": "desert_titan_trophy",
+                        "name": "Trophée du Titan du Désert",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "forest_titan_trophy",
+                        "name": "Trophée du Titan des Forêts",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "ice_titan_trophy",
+                        "name": "Trophée du Titan de Glace",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "gamma_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Gamma)",
+                        "quantity": 1
+                    },
+                    {
+                        "id": "beta_king_titan_trophy",
+                        "name": "Trophée du Roi des Titans (Beta)",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "add_boss",
+        "name": "Ajouter un boss"
+    },
+    {
+        "id": "add_item",
+        "name": "Ajouter un objet"
+    },
+    {
+        "id": "add_build",
+        "name": "Ajouter une construction"
+    },
+    {
+        "id": "add_blueprint",
+        "name": "Ajouter un schema"
+    }
+]

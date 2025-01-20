@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Accueil",
+        "model": "/"
+    },
+    {
+        "name": "Vote",
+        "model": "/vote"
+    },
+    {
+        "name": "Planificateur",
+        "model": "/planner"
+    }
+]
